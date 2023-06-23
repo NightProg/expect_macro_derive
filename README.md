@@ -14,6 +14,7 @@ This crate is used to generate a expected method for each variant of an enum.
  ## `#[panic]`
 
  if this attribute is present on a variant, the generated method will panic instead of returning None.
+ 
  Note: the enum need to implement Debug.
 
  # Example
