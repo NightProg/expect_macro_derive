@@ -48,6 +48,8 @@ use quote::quote;
 ///
 /// if this attribute is present on a variant, the generated method will panic instead of returning None.
 ///
+/// Note: the enum need to implement Debug.
+
 #[proc_macro_derive(Expect, attributes(panic))]
 pub fn expect_derive(input: TokenStream) -> TokenStream {
     let derive_input = parse_macro_input!(input as DeriveInput);
