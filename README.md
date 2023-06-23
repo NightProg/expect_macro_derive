@@ -50,9 +50,9 @@ This crate is used to generate a expected method for each variant of an enum.
 
  You can contribute to this project in many forms:
 
- - Report bugs and make suggestions on [Github](https://github.com/NightProg/expect_macro_rs/)
+ - Report bugs and make suggestions on [Github](https://github.com/NightProg/expect_macro_derive/)
  - Submit pull requests with new features or bug fixes
- - Star this project on [Github](https://github.com/NightProg/expect_macro_rs/)
+ - Star this project on [Github](https://github.com/NightProg/expect_macro_derive/)
  - And more!
 
  
