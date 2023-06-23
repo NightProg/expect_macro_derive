@@ -6,6 +6,10 @@ description = "This crate is used to generate a expected method for each variant
 keywords = ["expect_macro", "proc_macro", "procmacro"]
 edition = "2018"
 readme = "README.md"
+license = "MIT"
+repository = "https://github.com/NightProg/expect_macro_rs.git"
+homepage = "https://github.com/NightProg/expect_macro_rs.git"
+
 
 [lib]
 proc-macro = true
