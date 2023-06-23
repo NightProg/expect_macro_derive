@@ -1,5 +1,5 @@
 [package]
-name = "expect_macro"
+name = "expect_macro_derive"
 version = "0.0.0"
 authors = ["NightProg <85784092+NightProg@users.noreply.github.com>"]
 description = "This crate is used to generate a expected method for each variant of an enum."
@@ -7,8 +7,8 @@ keywords = ["expect_macro", "proc_macro", "procmacro"]
 edition = "2018"
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/NightProg/expect_macro_rs.git"
-homepage = "https://github.com/NightProg/expect_macro_rs.git"
+repository = "https://github.com/NightProg/expect_macro_derive.git"
+homepage = "https://github.com/NightProg/expect_macro_derive.git"
 
 
 [lib]
